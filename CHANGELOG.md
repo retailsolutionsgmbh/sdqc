@@ -2,15 +2,17 @@
 
 ## Version 2016-06-07
 
-**Release:**
-
-- K901856.TES und R901856.TES _(SDQC-20160607.zip)_
+```
+K901856.TES
+R901856.TES
+```
 
 ## Version 2015-06-06
 
-**Release:**
-
-- K901856.dat und R901856.dat _(SDQC-20160606.zip)_
+```
+K901856.dat
+R901856.dat
+```
 
 **Neue Features:**
 
