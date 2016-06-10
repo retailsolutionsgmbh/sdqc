@@ -19,7 +19,8 @@ K901856.TES
 R901856.TES
 ```
 
-_Version 2015-06-06 wurde in dem Dateiformat .dat ausgeliefert. Da es dabei zu Problemen kam, wurde diese neue Version 206-06-07 im Dateiformat .TES nachgeliefert._
+**Information:**
+- Version 2015-06-06 wurde in dem Dateiformat .dat ausgeliefert. Da es dabei zu Problemen kam, wurde diese neue Version 206-06-07 im Dateiformat .TES nachgeliefert.
 
 ## Version 2015-06-06
 
