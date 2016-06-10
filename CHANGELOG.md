@@ -1,11 +1,25 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2016-06-10
+
+```
+K901860.TES
+R901860.TES
+```
+
+**Neue Features:**
+- Performance-Optimierung für Prüftabellen in Wenn-Dann-Bedingungen (Prüftabellen werden in einem applikationseigenen Puffer zwischengespeichert)
+- BAdI `ZRSAG_SDQC_PRE_CHECK` wurde um zusätzliche Parameter erweitert
+
+
 ## Version 2016-06-07
 
 ```
 K901856.TES
 R901856.TES
 ```
+
+_Version 2015-06-06 wurde in dem Dateiformat .dat ausgeliefert. Da es dabei zu Problemen kam, wurde diese neue Version 206-06-07 im Dateiformat .TES nachgeliefert._
 
 ## Version 2015-06-06
 
