@@ -1,5 +1,31 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2016-07-22
+
+```
+K901885.TES
+R901885.TES
+```
+
+**Behobene Fehler:**
+
+- Regel schlägt zu, wenn nur die Logistik VZ-Sicht geöffnet wird [\#257](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/257)
+- Offline Report liefert eine Anzahl geprüfter und fehlerhafter Artikee von '0' [\#250](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/250)
+- PRICAT Verbuchung [\#244](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/244)
+- Vermischung der Jobs [\#201](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/201)
+- die Tabelle MAKT greift nicht [\#185](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/185)
+
+## Version 2016-07-11
+
+```
+K901870.TES
+R901870.TES
+```
+
+**Behobene Fehler:**
+
+- Performance Probleme [\#246](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/246)
+
 ## Version 2016-06-10
 
 ```
@@ -8,6 +34,7 @@ R901860.TES
 ```
 
 **Neue Features:**
+
 - Performance-Optimierung für Prüftabellen in Wenn-Dann-Bedingungen (Prüftabellen werden in einem applikationseigenen Puffer zwischengespeichert)
 - BAdI `ZRSAG_SDQC_PRE_CHECK` wurde um zusätzliche Parameter erweitert
 
@@ -20,6 +47,7 @@ R901856.TES
 ```
 
 **Information:**
+
 - Version 2015-06-06 wurde in dem Dateiformat .dat ausgeliefert. Da es dabei zu Problemen kam, wurde diese neue Version 206-06-07 im Dateiformat .TES nachgeliefert.
 
 ## Version 2015-06-06
