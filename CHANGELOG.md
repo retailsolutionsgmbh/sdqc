@@ -1,5 +1,22 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2016-08-12
+
+```
+K901907.TES
+R901907.TES
+```
+
+**Behobene Fehler:**
+- Änderung einer WENN Bedingung [\#269](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/269)
+- Jobeinplanung Parametereinstellungen [\#264](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/264)
+- Offline Report liefert eine Anzahl geprüfter und fehlerhafter Artikee von '0' [\#250](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/250)
+- PRICAT Verbuchung [\#244](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/244)
+- Zweite "Wenn-Bedingung" Feldname wird nicht übernommen [\#228](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/228)
+- Selektion in Fehlerdatenbank nach Datum des Offline-Check, Prüflauf und Regelnummer [\#200](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/200)
+- Pflege von mehr als 8 Regelspezifischen Bedingungen [\#199](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/199)
+- die Tabelle MAKT greift nicht [\#185](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/185)
+
 ## Version 2016-07-22
 
 ```
