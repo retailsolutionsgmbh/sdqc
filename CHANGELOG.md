@@ -1,5 +1,11 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2016-11-04 (geplant)
+
+## Version 2016-10-07 (geplant)
+
+## Version 2016-09-12 (geplant)
+
 ## Version 2016-08-12
 
 ```
