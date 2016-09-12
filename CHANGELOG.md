@@ -4,7 +4,25 @@
 
 ## Version 2016-10-07 (geplant)
 
-## Version 2016-09-12 (geplant)
+## Version 2016-09-12
+
+```
+K90xxxx.TES
+R90xxxx.TES
+```
+
+**Behobene Fehler:**
+
+- Die Vorbedingungen für Regel 625 wurden nicht von D15-320 nach T15-010 übernommen [\#262](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/262)
+- Trotz richtige Customizing erscheint keine Fehlermeldung zu Regel 554 [\#255](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/255)
+- Zweite "Wenn-Bedingung" Feldname wird nicht übernommen [\#228](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/228)
+- In der Wenn-Bedingung wird der Reguläre Ausdruck weder im Feld Vergleichsart noch im Feld Wert angezeigt. [\#225](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/225)
+- Im-/Export Feldinhalt Regulärer Ausdruck [\#204](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/204)
+- Löschen von Bedingungen funktioniert nicht [\#190](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/190)
+
+**Neue Features:**
+
+- Anzeige des Fehlerprotokolls in neuem Modus [\#268](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/268)
 
 ## Version 2016-08-12
 
@@ -14,6 +32,7 @@ R901907.TES
 ```
 
 **Behobene Fehler:**
+
 - Änderung einer WENN Bedingung [\#269](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/269)
 - Jobeinplanung Parametereinstellungen [\#264](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/264)
 - Offline Report liefert eine Anzahl geprüfter und fehlerhafter Artikee von '0' [\#250](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/250)
