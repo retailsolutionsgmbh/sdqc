@@ -13,7 +13,7 @@ R901996.TES
 
 **Information:**
 
-- Alle SDQC-Versionen ab diesem Fix benutzen für die Prüflaufstatistiken das neue Nummernkreisobjekt `ZSDQC_LAUF`. Diesem Nummernkreisobjekt muss initial ein Nummernkreisintervall vergeben werden.
+- Alle SDQC-Versionen ab diesem Fix benutzen für die Prüflaufstatistiken das neue Nummernkreisobjekt `ZSDQC_LAUF`. Diesem Nummernkreisobjekt muss initial ein Nummernkreisintervall vergeben werden, z.B. von 0000005000 bis 0000049999.
 
 **Behobene Fehler**
 
