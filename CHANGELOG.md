@@ -4,11 +4,60 @@
 
 ## Version 2016-10-07 (geplant)
 
+## Fix 2016-09-21
+
+```
+K901996.TES
+R901996.TES
+```
+
+**Information:**
+
+- Alle SDQC-Versionen ab diesem Fix benutzen für die Prüflaufstatistiken das neue Nummernkreisobjekt `ZSDQC_LAUF`. Diesem Nummernkreisobjekt muss initial ein Nummernkreisintervall vergeben werden.
+
+**Behobene Fehler**
+
+- Vermischung der Jobs [\#201](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/201)
+
+## Fix 2016-09-20
+
+```
+K901986.TES
+R901986.TES
+K901988.TES
+R901988.TES
+```
+
+**Information:**
+
+- `901986` beinhaltet den Include `LZRSAG_SDQC_ERRLISTO01`.
+- `901988` beinhaltet den Funktionsbaustein `ZRSAG_SDQC_ART_CHECK_PERF` und die Klasse `ZRSAG_SDQC_ERRLIST`.
+- Zusätzlich zu den beiden Transporten müssen noch Modifikationen in der Funktionsgruppe `MGMW` vorgenommen werden (vgl. Modifikationsdokument für "Neuer Modus").
+
+**Behobene Fehler:**
+
+- Anzeige des Fehlerprotokolls in neuem Modus [\#268](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/268)
+
+## Fix 2016-09-14
+
+```
+K901965.TES
+R901965.TES
+```
+
+**Information:**
+
+- Dieser Fix repariert einen Fehler in der Korrektur zu Ticket [\#190](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/190), der auftritt, wenn eine Wenn-Dann-Regel in einen Customizing-Transport gespeichert wird.
+
+**Behobene Fehler:**
+
+- Löschen von Bedingungen funktioniert nicht [\#190](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/190)
+
 ## Version 2016-09-12
 
 ```
-K90xxxx.TES
-R90xxxx.TES
+K901956.TES
+R901956.TES
 ```
 
 **Behobene Fehler:**
