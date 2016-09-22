@@ -4,6 +4,15 @@
 
 ## Version 2016-10-07 (geplant)
 
+```
+in Entwicklung
+```
+
+**Behobene Fehler**
+
+- Shortdump bei Textprüfung [\#281](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/281)
+- Langtextprüfungen zur MAKT mit Oder-Verknüpfung arbeiten weder online noch offline korrekt [\#256](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/256)
+
 ## Fix 2016-09-21
 
 ```
