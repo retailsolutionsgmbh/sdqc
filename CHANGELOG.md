@@ -71,6 +71,7 @@ R901956.TES
 
 **Behobene Fehler:**
 
+- Bei Aktivieren/Deaktivieren von Prüfregeln gibt es kein Feld "Kundenapplikationen" (Es gibt keine Möglichkeit Feld Kundenapplikationen zu aktivieren oder deaktivieren) [\#273](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/273)
 - Die Vorbedingungen für Regel 625 wurden nicht von D15-320 nach T15-010 übernommen [\#262](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/262)
 - Trotz richtige Customizing erscheint keine Fehlermeldung zu Regel 554 [\#255](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/255)
 - Zweite "Wenn-Bedingung" Feldname wird nicht übernommen [\#228](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/228)
