@@ -2,16 +2,35 @@
 
 ## Version 2016-11-04 (geplant)
 
+```
+in Entwicklung
+```
+
+**Geplant**
+- WENN - Dann Regel zur Prüfung eines Einkaufsinfosatzes [\#282](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/282)
+
 ## Version 2016-10-07 (geplant)
 
 ```
 in Entwicklung
 ```
 
+**In Bearbeitung**
+- Anzeige des Fehlerprotokolls in neuem Modus und Auto-Korrektur [\#268](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/268)
+- Regelerstellung im Dialog mit Hilfe der Tabelle MAKT [\#263](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/263)
+- Fehler beim Sichern einer Regel - ZSDQC_EINZELWERT [\#258](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/258)
+- Regelerstellung mit div. Textprüfungen [\#242](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/242)
+- In der Wenn-Bedingung wird der Reguläre Ausdruck weder im Feld Vergleichsart noch im Feld Wert angezeigt. [\#225](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/225)
+- mehrere DANN Verknüpfungen [\#215](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/215)
+- Einzelwerte [\#211](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/211)
+
 **Behobene Fehler**
 
 - Shortdump bei Textprüfung [\#281](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/281)
 - Langtextprüfungen zur MAKT mit Oder-Verknüpfung arbeiten weder online noch offline korrekt [\#256](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/256)
+- SDQC - keine Fehlerausgabe mit dem neuen Fehlerprotokoll für Fehler in Varianten [\#245](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/245)
+- Vermischung der Jobs [\#201](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/201) (seit Fix 2016-09-21)
+- Langtext wird nicht exportiert. [\#180](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/180)
 
 ## Fix 2016-09-21
 
