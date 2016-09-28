@@ -8,6 +8,9 @@ in Entwicklung
 
 **Geplant**
 - WENN - Dann Regel zur Prüfung eines Einkaufsinfosatzes [\#282](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/282)
+- Die Klasse wird nicht bei Anlage des ABAP-Prüfregels erkannt [\#271](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/271) (Feature)
+- Der Text der Fehlermeldung zu Regel 74 erscheint nicht richtig. [\#260](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/260)
+- Der Kommentar im Dialog "MARA-MATNR:0136" durch Button "Regel überprüfen" sollte korrigiert werden [\#251](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/251)
 
 ## Version 2016-10-07 (geplant)
 
@@ -26,6 +29,8 @@ in Entwicklung
 
 **Behobene Fehler**
 
+- Fehlerprotokoll neuer Modus: Meldung „Maximale Anzahl der SAP GUI Modi erreicht“ kommt nicht. [\#286](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/286)
+- Fehlerprotokoll neuer Modus: Der Hinweis "Keine weiteren Fehlermeldungen" sollte nicht kommen, sondern der Modus sollte sich sofort schließen. [\#284](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/284)
 - Shortdump bei Textprüfung [\#281](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/281)
 - Langtextprüfungen zur MAKT mit Oder-Verknüpfung arbeiten weder online noch offline korrekt [\#256](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/256)
 - SDQC - keine Fehlerausgabe mit dem neuen Fehlerprotokoll für Fehler in Varianten [\#245](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/245)
@@ -75,10 +80,13 @@ R901965.TES
 
 **Information:**
 
-- Dieser Fix repariert einen Fehler in der Korrektur zu Ticket [\#190](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/190), der auftritt, wenn eine Wenn-Dann-Regel in einen Customizing-Transport gespeichert wird.
+- Dieser Fix repariert einen Fehler zu den u.g. Tickets, der auftritt, wenn eine Wenn-Dann-Regel in einen Customizing-Transport gespeichert wird.
 
 **Behobene Fehler:**
 
+- Dump beim Anlegen einer Vorbedingung. [\#279](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/279)
+- Die Vorbedingungen für Regel 625 wurden nicht von D15-320 nach T15-010 übernommen [\#262](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/262)
+- Trotz richtige Customizing erscheint keine Fehlermeldung zu Regel 554 [\#255](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/255)
 - Löschen von Bedingungen funktioniert nicht [\#190](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/190)
 
 ## Version 2016-09-12
