@@ -15,25 +15,29 @@ in Entwicklung
 ## Version 2016-10-07 (geplant)
 
 ```
-in Entwicklung
+in Vorbereitung
 ```
 
-**In Bearbeitung**
+**Erinnerung:**
+
+- Alle SDQC-Versionen ab Fix 2016-09-21 benutzen für die Prüflaufstatistiken das neue Nummernkreisobjekt `ZSDQC_LAUF`. Diesem Nummernkreisobjekt muss initial ein Nummernkreisintervall vergeben werden, z.B. von 0000005000 bis 0000049999.
+
+**Behobene Fehler**
+
+- Fehlerprotokoll beim Sammelartikel greift nicht [\#289](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/289)
+- Fehlerprotokoll neuer Modus: Meldung „Maximale Anzahl der SAP GUI Modi erreicht“ kommt nicht. [\#286](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/286)
+- Fehlerprotokoll neuer Modus: In bestimmten Konstellationen werden die Fehlermeldungen zum falschen Artikel angezeigt [\#285](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/285)
+- Fehlerprotokoll neuer Modus: Der Hinweis "Keine weiteren Fehlermeldungen" sollte nicht kommen, sondern der Modus sollte sich sofort schließen. [\#284](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/284)
+- Shortdump bei Textprüfung [\#281](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/281)
 - Anzeige des Fehlerprotokolls in neuem Modus und Auto-Korrektur [\#268](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/268)
 - Regelerstellung im Dialog mit Hilfe der Tabelle MAKT [\#263](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/263)
 - Fehler beim Sichern einer Regel - ZSDQC_EINZELWERT [\#258](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/258)
+- Langtextprüfungen zur MAKT mit Oder-Verknüpfung arbeiten weder online noch offline korrekt [\#256](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/256)
+- SDQC - keine Fehlerausgabe mit dem neuen Fehlerprotokoll für Fehler in Varianten [\#245](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/245)
 - Regelerstellung mit div. Textprüfungen [\#242](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/242)
 - In der Wenn-Bedingung wird der Reguläre Ausdruck weder im Feld Vergleichsart noch im Feld Wert angezeigt. [\#225](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/225)
 - mehrere DANN Verknüpfungen [\#215](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/215)
 - Einzelwerte [\#211](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/211)
-
-**Behobene Fehler**
-
-- Fehlerprotokoll neuer Modus: Meldung „Maximale Anzahl der SAP GUI Modi erreicht“ kommt nicht. [\#286](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/286)
-- Fehlerprotokoll neuer Modus: Der Hinweis "Keine weiteren Fehlermeldungen" sollte nicht kommen, sondern der Modus sollte sich sofort schließen. [\#284](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/284)
-- Shortdump bei Textprüfung [\#281](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/281)
-- Langtextprüfungen zur MAKT mit Oder-Verknüpfung arbeiten weder online noch offline korrekt [\#256](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/256)
-- SDQC - keine Fehlerausgabe mit dem neuen Fehlerprotokoll für Fehler in Varianten [\#245](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/245)
 - Vermischung der Jobs [\#201](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/201) (seit Fix 2016-09-21)
 - Langtext wird nicht exportiert. [\#180](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/180)
 
