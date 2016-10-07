@@ -15,7 +15,10 @@ in Entwicklung
 ## Version 2016-10-07 (geplant)
 
 ```
-in Vorbereitung
+K902029.TES (Modifikation MGMW)
+R902029.TES (Modifikation MGMW)
+K902031.TES (ZRSAG_SDQC Paket)
+R902031.TES (ZRSAG_SDQC Paket)
 ```
 
 **Erinnerung:**
