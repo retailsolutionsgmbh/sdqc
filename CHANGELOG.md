@@ -12,7 +12,7 @@ in Entwicklung
 - Der Text der Fehlermeldung zu Regel 74 erscheint nicht richtig. [\#260](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/260)
 - Der Kommentar im Dialog "MARA-MATNR:0136" durch Button "Regel überprüfen" sollte korrigiert werden [\#251](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/251)
 
-## Version 2016-10-07 (geplant)
+## Version 2016-10-07
 
 ```
 K902029.TES (Modifikation MGMW)
