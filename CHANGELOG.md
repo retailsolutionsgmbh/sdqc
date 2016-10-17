@@ -15,8 +15,8 @@ in Entwicklung
 ## Fix 2016-10-17
 
 ```
-K90xxxx.TES
-R90xxxx.TES
+K902036.TES
+R902036.TES
 ```
 
 **Behobene Fehler:**
