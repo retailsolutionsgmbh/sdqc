@@ -1,16 +1,32 @@
 # SDQC: Änderungsprotokoll
 
-## Version 2016-11-04 (geplant)
+## Version 2016-xx-xx (geplant)
 
 ```
 in Entwicklung
 ```
 
 **Geplant**
+
 - WENN - Dann Regel zur Prüfung eines Einkaufsinfosatzes [\#282](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/282)
 - Die Klasse wird nicht bei Anlage des ABAP-Prüfregels erkannt [\#271](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/271) (Feature)
 - Der Text der Fehlermeldung zu Regel 74 erscheint nicht richtig. [\#260](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/260)
 - Der Kommentar im Dialog "MARA-MATNR:0136" durch Button "Regel überprüfen" sollte korrigiert werden [\#251](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/251)
+
+## Version 2016-11-07
+
+```
+K902040.TES
+R902040.TES
+```
+
+**Behobene Fehler:**
+
+- Fehlerprotokoll neuer Modus: In bestimmten Konstellationen werden die Fehlermeldungen zum falschen Artikel angezeigt [\285](http://bitnami-redmine-58c6.cloudapp.net/issues/285)
+
+## Version 2016-11-04
+
+abgesagt
 
 ## Fix 2016-10-17
 
