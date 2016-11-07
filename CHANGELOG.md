@@ -22,7 +22,7 @@ R902040.TES
 
 **Behobene Fehler:**
 
-- Fehlerprotokoll neuer Modus: In bestimmten Konstellationen werden die Fehlermeldungen zum falschen Artikel angezeigt [\285](http://bitnami-redmine-58c6.cloudapp.net/issues/285)
+- Fehlerprotokoll neuer Modus: In bestimmten Konstellationen werden die Fehlermeldungen zum falschen Artikel angezeigt [\#285](http://bitnami-redmine-58c6.cloudapp.net/issues/285)
 
 ## Version 2016-11-04
 
