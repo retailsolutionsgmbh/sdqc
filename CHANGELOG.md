@@ -1,6 +1,6 @@
 # SDQC: Änderungsprotokoll
 
-## Version 2016-xx-xx (geplant)
+## Version 2017-xx-xx (geplant)
 
 ```
 in Entwicklung
@@ -8,10 +8,33 @@ in Entwicklung
 
 **Geplant**
 
-- WENN - Dann Regel zur Prüfung eines Einkaufsinfosatzes [\#282](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/282)
 - Die Klasse wird nicht bei Anlage des ABAP-Prüfregels erkannt [\#271](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/271) (Feature)
 - Der Text der Fehlermeldung zu Regel 74 erscheint nicht richtig. [\#260](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/260)
 - Der Kommentar im Dialog "MARA-MATNR:0136" durch Button "Regel überprüfen" sollte korrigiert werden [\#251](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/251)
+
+## Version 2016-12-02 (geplant)
+
+```
+in Entwicklung
+```
+
+**Geplant**
+
+- Massenänderung funktioniert nicht bei allen Regeln [\#300](http://bitnami-redmine-58c6.cloudapp.net/issues/300)
+
+## Version 2016-11-18
+
+```
+Kxxxxxx.TES
+Rxxxxxx.TES
+```
+
+**Behobene Fehler**
+
+- Performance-Probleme und Shortdumps durch Löschung von A-Tabelleneinträge ohne Sperre [\#301](http://bitnami-redmine-58c6.cloudapp.net/issues/301)
+- Regulärer Ausdruck bei Vergleichsregel wird nicht exportiert und kann somit auch nicht importiert werden [\#299](http://bitnami-redmine-58c6.cloudapp.net/issues/299)
+- Transport von Einzelwerten [\#296](http://bitnami-redmine-58c6.cloudapp.net/issues/296)
+- WENN - Dann Regel zur Prüfung eines Einkaufsinfosatzes [\#282](http://bitnami-redmine-58c6.cloudapp.net/issues/282)
 
 ## Version 2016-11-07
 
