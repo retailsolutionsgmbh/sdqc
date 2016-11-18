@@ -35,6 +35,7 @@ Rxxxxxx.TES
 - Regulärer Ausdruck bei Vergleichsregel wird nicht exportiert und kann somit auch nicht importiert werden [\#299](http://bitnami-redmine-58c6.cloudapp.net/issues/299)
 - Transport von Einzelwerten [\#296](http://bitnami-redmine-58c6.cloudapp.net/issues/296)
 - WENN - Dann Regel zur Prüfung eines Einkaufsinfosatzes [\#282](http://bitnami-redmine-58c6.cloudapp.net/issues/282)
+- Regeltyp Vergleich / Fehlermeldung erscheint, läßt sich aber nicht entfernen [\#275](http://bitnami-redmine-58c6.cloudapp.net/issues/275)
 
 ## Version 2016-11-07
 
