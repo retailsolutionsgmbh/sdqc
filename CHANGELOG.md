@@ -12,15 +12,16 @@ in Entwicklung
 - Der Text der Fehlermeldung zu Regel 74 erscheint nicht richtig. [\#260](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/260)
 - Der Kommentar im Dialog "MARA-MATNR:0136" durch Button "Regel überprüfen" sollte korrigiert werden [\#251](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/251)
 
-## Version 2016-12-02 (geplant)
+## Version 2016-12-16
 
 ```
-in Entwicklung
+K90xxxx.TES
+R90xxxx.TES
 ```
 
-**Geplant**
+**Behobene Fehler**
 
-- Massenänderung funktioniert nicht bei allen Regeln [\#300](http://bitnami-redmine-58c6.cloudapp.net/issues/300)
+- "Regel löschen" löscht nicht die zugehörigen Einzelwerte [\#304](http://bitnami-redmine-58c6.cloudapp.net/issues/304)
 
 ## Version 2016-11-18
 
