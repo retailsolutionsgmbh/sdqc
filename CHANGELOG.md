@@ -12,6 +12,18 @@ in Entwicklung
 - Der Text der Fehlermeldung zu Regel 74 erscheint nicht richtig. [\#260](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/260)
 - Der Kommentar im Dialog "MARA-MATNR:0136" durch Button "Regel überprüfen" sollte korrigiert werden [\#251](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/251)
 
+## Version 2017-02-24
+
+```
+in Entwicklung
+```
+
+**Geplant**
+
+- Button Einzelwerte ist grau [\#311](http://bitnami-redmine-58c6.cloudapp.net/issues/311)
+- Button Fehlerbeschreibung ist grau [\#309](http://bitnami-redmine-58c6.cloudapp.net/issues/309)
+- Button zum Anzeigen von Wenn-/Dann-Bedingungen hinzufügen [\#302](http://bitnami-redmine-58c6.cloudapp.net/issues/302)
+
 ## Version 2016-12-16
 
 ```
