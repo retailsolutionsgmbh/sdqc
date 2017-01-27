@@ -8,7 +8,6 @@ in Entwicklung
 
 **Geplant**
 
-- Die Klasse wird nicht bei Anlage des ABAP-Prüfregels erkannt [\#271](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/271) (Feature)
 - Der Text der Fehlermeldung zu Regel 74 erscheint nicht richtig. [\#260](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/260)
 - Der Kommentar im Dialog "MARA-MATNR:0136" durch Button "Regel überprüfen" sollte korrigiert werden [\#251](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/251)
 
@@ -20,9 +19,15 @@ in Entwicklung
 
 **Geplant**
 
+- Für W_SYNC erscheint kein korrekter Test bei der Fehlermeldung zu Regel 611 [\#261](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/261)
+
+**Realisiert**
+
 - Button Einzelwerte ist grau [\#311](http://bitnami-redmine-58c6.cloudapp.net/issues/311)
 - Button Fehlerbeschreibung ist grau [\#309](http://bitnami-redmine-58c6.cloudapp.net/issues/309)
 - Button zum Anzeigen von Wenn-/Dann-Bedingungen hinzufügen [\#302](http://bitnami-redmine-58c6.cloudapp.net/issues/302)
+- Vorbedingungen werden bei einigen Regeln nicht angepasst, Pos. nicht gelöscht [\#287](http://bitnami-redmine-58c6.cloudapp.net/issues/287)
+- Die Klasse wird nicht bei Anlage des ABAP-Prüfregels erkannt [\#271](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/271)
 
 ## Version 2016-12-16
 
