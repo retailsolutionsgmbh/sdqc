@@ -25,6 +25,7 @@ in Entwicklung
 
 - Button Einzelwerte ist grau [\#311](http://bitnami-redmine-58c6.cloudapp.net/issues/311)
 - Button Fehlerbeschreibung ist grau [\#309](http://bitnami-redmine-58c6.cloudapp.net/issues/309)
+- Regel zurücksetzen beim Ändern des Regeltyps [\#305](http://bitnami-redmine-58c6.cloudapp.net/issues/305)
 - Button zum Anzeigen von Wenn-/Dann-Bedingungen hinzufügen [\#302](http://bitnami-redmine-58c6.cloudapp.net/issues/302)
 - Vorbedingungen werden bei einigen Regeln nicht angepasst, Pos. nicht gelöscht [\#287](http://bitnami-redmine-58c6.cloudapp.net/issues/287)
 - Die Klasse wird nicht bei Anlage des ABAP-Prüfregels erkannt [\#271](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/271)
