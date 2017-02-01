@@ -8,7 +8,7 @@ in Entwicklung
 
 **Geplant**
 
-- Der Kommentar im Dialog "MARA-MATNR:0136" durch Button "Regel überprüfen" sollte korrigiert werden [\#251](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/251)
+- Der Kommentar im Dialog "MARA-MATNR:0136" durch Button "Regel überprüfen" sollte korrigiert werden [\#251](http://bitnami-redmine-58c6.cloudapp.net/issues/251)
 
 ## Version 2017-02-24
 
@@ -18,7 +18,7 @@ in Entwicklung
 
 **Geplant**
 
-- Für W_SYNC erscheint kein korrekter Test bei der Fehlermeldung zu Regel 611 [\#261](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/261)
+- Für W_SYNC erscheint kein korrekter Test bei der Fehlermeldung zu Regel 611 [\#261](http://bitnami-redmine-58c6.cloudapp.net/issues/261)
 
 **Realisiert**
 
@@ -175,17 +175,17 @@ R901956.TES
 
 **Behobene Fehler:**
 
-- Bei Aktivieren/Deaktivieren von Prüfregeln gibt es kein Feld "Kundenapplikationen" (Es gibt keine Möglichkeit Feld Kundenapplikationen zu aktivieren oder deaktivieren) [\#273](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/273)
-- Die Vorbedingungen für Regel 625 wurden nicht von D15-320 nach T15-010 übernommen [\#262](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/262)
-- Trotz richtige Customizing erscheint keine Fehlermeldung zu Regel 554 [\#255](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/255)
-- Zweite "Wenn-Bedingung" Feldname wird nicht übernommen [\#228](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/228)
-- In der Wenn-Bedingung wird der Reguläre Ausdruck weder im Feld Vergleichsart noch im Feld Wert angezeigt. [\#225](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/225)
-- Im-/Export Feldinhalt Regulärer Ausdruck [\#204](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/204)
-- Löschen von Bedingungen funktioniert nicht [\#190](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/190)
+- Bei Aktivieren/Deaktivieren von Prüfregeln gibt es kein Feld "Kundenapplikationen" (Es gibt keine Möglichkeit Feld Kundenapplikationen zu aktivieren oder deaktivieren) [\#273](http://bitnami-redmine-58c6.cloudapp.net/issues/273)
+- Die Vorbedingungen für Regel 625 wurden nicht von D15-320 nach T15-010 übernommen [\#262](http://bitnami-redmine-58c6.cloudapp.net/issues/262)
+- Trotz richtige Customizing erscheint keine Fehlermeldung zu Regel 554 [\#255](http://bitnami-redmine-58c6.cloudapp.net/issues/255)
+- Zweite "Wenn-Bedingung" Feldname wird nicht übernommen [\#228](http://bitnami-redmine-58c6.cloudapp.net/issues/228)
+- In der Wenn-Bedingung wird der Reguläre Ausdruck weder im Feld Vergleichsart noch im Feld Wert angezeigt. [\#225](http://bitnami-redmine-58c6.cloudapp.net/issues/225)
+- Im-/Export Feldinhalt Regulärer Ausdruck [\#204](http://bitnami-redmine-58c6.cloudapp.net/issues/204)
+- Löschen von Bedingungen funktioniert nicht [\#190](http://bitnami-redmine-58c6.cloudapp.net/issues/190)
 
 **Neue Features:**
 
-- Anzeige des Fehlerprotokolls in neuem Modus [\#268](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/268)
+- Anzeige des Fehlerprotokolls in neuem Modus [\#268](http://bitnami-redmine-58c6.cloudapp.net/issues/268)
 
 ## Version 2016-08-12
 
@@ -196,14 +196,14 @@ R901907.TES
 
 **Behobene Fehler:**
 
-- Änderung einer WENN Bedingung [\#269](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/269)
-- Jobeinplanung Parametereinstellungen [\#264](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/264)
-- Offline Report liefert eine Anzahl geprüfter und fehlerhafter Artikee von '0' [\#250](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/250)
-- PRICAT Verbuchung [\#244](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/244)
-- Zweite "Wenn-Bedingung" Feldname wird nicht übernommen [\#228](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/228)
-- Selektion in Fehlerdatenbank nach Datum des Offline-Check, Prüflauf und Regelnummer [\#200](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/200)
-- Pflege von mehr als 8 Regelspezifischen Bedingungen [\#199](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/199)
-- die Tabelle MAKT greift nicht [\#185](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/185)
+- Änderung einer WENN Bedingung [\#269](http://bitnami-redmine-58c6.cloudapp.net/issues/269)
+- Jobeinplanung Parametereinstellungen [\#264](http://bitnami-redmine-58c6.cloudapp.net/issues/264)
+- Offline Report liefert eine Anzahl geprüfter und fehlerhafter Artikee von '0' [\#250](http://bitnami-redmine-58c6.cloudapp.net/issues/250)
+- PRICAT Verbuchung [\#244](http://bitnami-redmine-58c6.cloudapp.net/issues/244)
+- Zweite "Wenn-Bedingung" Feldname wird nicht übernommen [\#228](http://bitnami-redmine-58c6.cloudapp.net/issues/228)
+- Selektion in Fehlerdatenbank nach Datum des Offline-Check, Prüflauf und Regelnummer [\#200](http://bitnami-redmine-58c6.cloudapp.net/issues/200)
+- Pflege von mehr als 8 Regelspezifischen Bedingungen [\#199](http://bitnami-redmine-58c6.cloudapp.net/issues/199)
+- die Tabelle MAKT greift nicht [\#185](http://bitnami-redmine-58c6.cloudapp.net/issues/185)
 
 ## Version 2016-07-22
 
@@ -214,11 +214,11 @@ R901885.TES
 
 **Behobene Fehler:**
 
-- Regel schlägt zu, wenn nur die Logistik VZ-Sicht geöffnet wird [\#257](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/257)
-- Offline Report liefert eine Anzahl geprüfter und fehlerhafter Artikee von '0' [\#250](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/250)
-- PRICAT Verbuchung [\#244](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/244)
-- Vermischung der Jobs [\#201](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/201)
-- die Tabelle MAKT greift nicht [\#185](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/185)
+- Regel schlägt zu, wenn nur die Logistik VZ-Sicht geöffnet wird [\#257](http://bitnami-redmine-58c6.cloudapp.net/issues/257)
+- Offline Report liefert eine Anzahl geprüfter und fehlerhafter Artikee von '0' [\#250](http://bitnami-redmine-58c6.cloudapp.net/issues/250)
+- PRICAT Verbuchung [\#244](http://bitnami-redmine-58c6.cloudapp.net/issues/244)
+- Vermischung der Jobs [\#201](http://bitnami-redmine-58c6.cloudapp.net/issues/201)
+- die Tabelle MAKT greift nicht [\#185](http://bitnami-redmine-58c6.cloudapp.net/issues/185)
 
 ## Version 2016-07-11
 
@@ -229,7 +229,7 @@ R901870.TES
 
 **Behobene Fehler:**
 
-- Performance Probleme [\#246](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/246)
+- Performance Probleme [\#246](http://bitnami-redmine-58c6.cloudapp.net/issues/246)
 
 ## Version 2016-06-10
 
@@ -264,15 +264,15 @@ R901856.dat
 
 **Neue Features:**
 
-- Online-Fehlermeldungsprotokoll: Layout auswählen/ändern/sicher/verwalten [\#208](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/208)
+- Online-Fehlermeldungsprotokoll: Layout auswählen/ändern/sicher/verwalten [\#208](http://bitnami-redmine-58c6.cloudapp.net/issues/208)
 
 **Behobene Fehler:**
 
-- SDQC Tool: Die gelbe Regel ist aktiv aber keine Kennzeichnung für "Offline-Report" [\#218](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/218)
-- Allgemeine Vorbedingungen: Kurzcode für Include und Exclude vertauscht [\#217](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/217)
-- Trotz eingeschränkter Berechtigung können ausgeschlossene Funktionalitäten genutzt werden. [\#205](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/205)
-- Im-/Export Feldinhalt Regulärer Ausdruck [\#204](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/204)
-- Selektion in Fehlerdatenbank nach Datum des Offline-Check, Prüflauf und Regelnummer [\#200](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/200)
-- Pflege von mehr als 8 Regelspezifischen Bedingungen [\#199](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/199)
-- Es wird der Änderungsmodus einer Regel geöffnet. [\#198](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/198)
-- Aufruf Grapfische Darstellung: "Die Seite kann nicht angezeigt werden." [\#195](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/195)
+- SDQC Tool: Die gelbe Regel ist aktiv aber keine Kennzeichnung für "Offline-Report" [\#218](http://bitnami-redmine-58c6.cloudapp.net/issues/218)
+- Allgemeine Vorbedingungen: Kurzcode für Include und Exclude vertauscht [\#217](http://bitnami-redmine-58c6.cloudapp.net/issues/217)
+- Trotz eingeschränkter Berechtigung können ausgeschlossene Funktionalitäten genutzt werden. [\#205](http://bitnami-redmine-58c6.cloudapp.net/issues/205)
+- Im-/Export Feldinhalt Regulärer Ausdruck [\#204](http://bitnami-redmine-58c6.cloudapp.net/issues/204)
+- Selektion in Fehlerdatenbank nach Datum des Offline-Check, Prüflauf und Regelnummer [\#200](http://bitnami-redmine-58c6.cloudapp.net/issues/200)
+- Pflege von mehr als 8 Regelspezifischen Bedingungen [\#199](http://bitnami-redmine-58c6.cloudapp.net/issues/199)
+- Es wird der Änderungsmodus einer Regel geöffnet. [\#198](http://bitnami-redmine-58c6.cloudapp.net/issues/198)
+- Aufruf Grapfische Darstellung: "Die Seite kann nicht angezeigt werden." [\#195](http://bitnami-redmine-58c6.cloudapp.net/issues/195)
