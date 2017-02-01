@@ -8,7 +8,6 @@ in Entwicklung
 
 **Geplant**
 
-- Der Text der Fehlermeldung zu Regel 74 erscheint nicht richtig. [\#260](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/260)
 - Der Kommentar im Dialog "MARA-MATNR:0136" durch Button "Regel überprüfen" sollte korrigiert werden [\#251](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/251)
 
 ## Version 2017-02-24
@@ -28,7 +27,8 @@ in Entwicklung
 - Regel zurücksetzen beim Ändern des Regeltyps [\#305](http://bitnami-redmine-58c6.cloudapp.net/issues/305)
 - Button zum Anzeigen von Wenn-/Dann-Bedingungen hinzufügen [\#302](http://bitnami-redmine-58c6.cloudapp.net/issues/302)
 - Vorbedingungen werden bei einigen Regeln nicht angepasst, Pos. nicht gelöscht [\#287](http://bitnami-redmine-58c6.cloudapp.net/issues/287)
-- Die Klasse wird nicht bei Anlage des ABAP-Prüfregels erkannt [\#271](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/271)
+- Die Klasse wird nicht bei Anlage des ABAP-Prüfregels erkannt [\#271](http://bitnami-redmine-58c6.cloudapp.net/issues/271)
+- Der Text der Fehlermeldung zu Regel 74 erscheint nicht richtig. [\#260](http://bitnami-redmine-58c6.cloudapp.net/issues/260)
 
 ## Version 2016-12-16
 
@@ -80,7 +80,7 @@ R902036.TES
 
 **Behobene Fehler:**
 
-- In der Wenn-Bedingung wird der Reguläre Ausdruck weder im Feld Vergleichsart noch im Feld Wert angezeigt. [\#225](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/225)
+- In der Wenn-Bedingung wird der Reguläre Ausdruck weder im Feld Vergleichsart noch im Feld Wert angezeigt. [\#225](http://bitnami-redmine-58c6.cloudapp.net/issues/225)
 
 ## Version 2016-10-07
 
@@ -97,22 +97,22 @@ R902031.TES (ZRSAG_SDQC Paket)
 
 **Behobene Fehler**
 
-- Fehlerprotokoll beim Sammelartikel greift nicht [\#289](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/289)
-- Fehlerprotokoll neuer Modus: Meldung „Maximale Anzahl der SAP GUI Modi erreicht“ kommt nicht. [\#286](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/286)
-- Fehlerprotokoll neuer Modus: In bestimmten Konstellationen werden die Fehlermeldungen zum falschen Artikel angezeigt [\#285](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/285)
-- Fehlerprotokoll neuer Modus: Der Hinweis "Keine weiteren Fehlermeldungen" sollte nicht kommen, sondern der Modus sollte sich sofort schließen. [\#284](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/284)
-- Shortdump bei Textprüfung [\#281](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/281)
-- Anzeige des Fehlerprotokolls in neuem Modus und Auto-Korrektur [\#268](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/268)
-- Regelerstellung im Dialog mit Hilfe der Tabelle MAKT [\#263](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/263)
-- Fehler beim Sichern einer Regel - ZSDQC_EINZELWERT [\#258](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/258)
-- Langtextprüfungen zur MAKT mit Oder-Verknüpfung arbeiten weder online noch offline korrekt [\#256](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/256)
-- SDQC - keine Fehlerausgabe mit dem neuen Fehlerprotokoll für Fehler in Varianten [\#245](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/245)
-- Regelerstellung mit div. Textprüfungen [\#242](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/242)
-- In der Wenn-Bedingung wird der Reguläre Ausdruck weder im Feld Vergleichsart noch im Feld Wert angezeigt. [\#225](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/225)
-- mehrere DANN Verknüpfungen [\#215](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/215)
-- Einzelwerte [\#211](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/211)
-- Vermischung der Jobs [\#201](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/201) (seit Fix 2016-09-21)
-- Langtext wird nicht exportiert. [\#180](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/180)
+- Fehlerprotokoll beim Sammelartikel greift nicht [\#289](http://bitnami-redmine-58c6.cloudapp.net/issues/289)
+- Fehlerprotokoll neuer Modus: Meldung „Maximale Anzahl der SAP GUI Modi erreicht“ kommt nicht. [\#286](http://bitnami-redmine-58c6.cloudapp.net/issues/286)
+- Fehlerprotokoll neuer Modus: In bestimmten Konstellationen werden die Fehlermeldungen zum falschen Artikel angezeigt [\#285](http://bitnami-redmine-58c6.cloudapp.net/issues/285)
+- Fehlerprotokoll neuer Modus: Der Hinweis "Keine weiteren Fehlermeldungen" sollte nicht kommen, sondern der Modus sollte sich sofort schließen. [\#284](http://bitnami-redmine-58c6.cloudapp.net/issues/284)
+- Shortdump bei Textprüfung [\#281](http://bitnami-redmine-58c6.cloudapp.net/issues/281)
+- Anzeige des Fehlerprotokolls in neuem Modus und Auto-Korrektur [\#268](http://bitnami-redmine-58c6.cloudapp.net/issues/268)
+- Regelerstellung im Dialog mit Hilfe der Tabelle MAKT [\#263](http://bitnami-redmine-58c6.cloudapp.net/issues/263)
+- Fehler beim Sichern einer Regel - ZSDQC_EINZELWERT [\#258](http://bitnami-redmine-58c6.cloudapp.net/issues/258)
+- Langtextprüfungen zur MAKT mit Oder-Verknüpfung arbeiten weder online noch offline korrekt [\#256](http://bitnami-redmine-58c6.cloudapp.net/issues/256)
+- SDQC - keine Fehlerausgabe mit dem neuen Fehlerprotokoll für Fehler in Varianten [\#245](http://bitnami-redmine-58c6.cloudapp.net/issues/245)
+- Regelerstellung mit div. Textprüfungen [\#242](http://bitnami-redmine-58c6.cloudapp.net/issues/242)
+- In der Wenn-Bedingung wird der Reguläre Ausdruck weder im Feld Vergleichsart noch im Feld Wert angezeigt. [\#225](http://bitnami-redmine-58c6.cloudapp.net/issues/225)
+- mehrere DANN Verknüpfungen [\#215](http://bitnami-redmine-58c6.cloudapp.net/issues/215)
+- Einzelwerte [\#211](http://bitnami-redmine-58c6.cloudapp.net/issues/211)
+- Vermischung der Jobs [\#201](http://bitnami-redmine-58c6.cloudapp.net/issues/201) (seit Fix 2016-09-21)
+- Langtext wird nicht exportiert. [\#180](http://bitnami-redmine-58c6.cloudapp.net/issues/180)
 
 ## Fix 2016-09-21
 
@@ -127,7 +127,7 @@ R901996.TES
 
 **Behobene Fehler**
 
-- Vermischung der Jobs [\#201](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/201)
+- Vermischung der Jobs [\#201](http://bitnami-redmine-58c6.cloudapp.net/issues/201)
 
 ## Fix 2016-09-20
 
@@ -146,7 +146,7 @@ R901988.TES
 
 **Behobene Fehler:**
 
-- Anzeige des Fehlerprotokolls in neuem Modus [\#268](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/268)
+- Anzeige des Fehlerprotokolls in neuem Modus [\#268](http://bitnami-redmine-58c6.cloudapp.net/issues/268)
 
 ## Fix 2016-09-14
 
@@ -161,10 +161,10 @@ R901965.TES
 
 **Behobene Fehler:**
 
-- Dump beim Anlegen einer Vorbedingung. [\#279](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/279)
-- Die Vorbedingungen für Regel 625 wurden nicht von D15-320 nach T15-010 übernommen [\#262](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/262)
-- Trotz richtige Customizing erscheint keine Fehlermeldung zu Regel 554 [\#255](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/255)
-- Löschen von Bedingungen funktioniert nicht [\#190](http://ec2-54-72-131-21.eu-west-1.compute.amazonaws.com/redmine/issues/190)
+- Dump beim Anlegen einer Vorbedingung. [\#279](http://bitnami-redmine-58c6.cloudapp.net/issues/279)
+- Die Vorbedingungen für Regel 625 wurden nicht von D15-320 nach T15-010 übernommen [\#262](http://bitnami-redmine-58c6.cloudapp.net/issues/262)
+- Trotz richtige Customizing erscheint keine Fehlermeldung zu Regel 554 [\#255](http://bitnami-redmine-58c6.cloudapp.net/issues/255)
+- Löschen von Bedingungen funktioniert nicht [\#190](http://bitnami-redmine-58c6.cloudapp.net/issues/190)
 
 ## Version 2016-09-12
 
