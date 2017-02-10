@@ -16,18 +16,16 @@ in Entwicklung
 in Entwicklung
 ```
 
-**Geplant**
+**Behobene Fehler**
 
-- Für W_SYNC erscheint kein korrekter Test bei der Fehlermeldung zu Regel 611 [\#261](http://bitnami-redmine-58c6.cloudapp.net/issues/261)
-
-**Realisiert**
-
+- Beim "Fehler beim Buchen" wird die Zeile mit dem Artikel nicht ausgegeben. [\#317](http://bitnami-redmine-58c6.cloudapp.net/issues/317)
 - Button Einzelwerte ist grau [\#311](http://bitnami-redmine-58c6.cloudapp.net/issues/311)
 - Button Fehlerbeschreibung ist grau [\#309](http://bitnami-redmine-58c6.cloudapp.net/issues/309)
 - Regel zurücksetzen beim Ändern des Regeltyps [\#305](http://bitnami-redmine-58c6.cloudapp.net/issues/305)
 - Button zum Anzeigen von Wenn-/Dann-Bedingungen hinzufügen [\#302](http://bitnami-redmine-58c6.cloudapp.net/issues/302)
 - Vorbedingungen werden bei einigen Regeln nicht angepasst, Pos. nicht gelöscht [\#287](http://bitnami-redmine-58c6.cloudapp.net/issues/287)
 - Die Klasse wird nicht bei Anlage des ABAP-Prüfregels erkannt [\#271](http://bitnami-redmine-58c6.cloudapp.net/issues/271)
+- Für W_SYNC erscheint kein korrekter Test bei der Fehlermeldung zu Regel 611 [\#261](http://bitnami-redmine-58c6.cloudapp.net/issues/261)
 - Der Text der Fehlermeldung zu Regel 74 erscheint nicht richtig. [\#260](http://bitnami-redmine-58c6.cloudapp.net/issues/260)
 
 ## Version 2016-12-16
