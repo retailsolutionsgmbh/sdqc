@@ -18,6 +18,7 @@ in Entwicklung
 
 **Behobene Fehler**
 
+- Customizing Zentrale Einstellungen SDQC für Industrie wird änderbar [\#319](http://bitnami-redmine-58c6.cloudapp.net/issues/319)
 - Beim "Fehler beim Buchen" wird die Zeile mit dem Artikel nicht ausgegeben. [\#317](http://bitnami-redmine-58c6.cloudapp.net/issues/317)
 - Button Einzelwerte ist grau [\#311](http://bitnami-redmine-58c6.cloudapp.net/issues/311)
 - Button Fehlerbeschreibung ist grau [\#309](http://bitnami-redmine-58c6.cloudapp.net/issues/309)
