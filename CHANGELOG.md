@@ -1,16 +1,7 @@
 # SDQC: Änderungsprotokoll
 
 ## Version 2017-04-21
-
-```
-in Planung
-```
-
-**Geplant**
-
-- Performance & Retailsolutions-Methode IF_EX_BADI_MATERIAL_CHECK~CHECK_DATA_RETAIL [\#314](http://bitnami-redmine-58c6.cloudapp.net/issues/314)
-
-## Version 2017-04-07
+## Version 2017-04-07 (Pre-Release)
 
 ```
 in Planung
@@ -23,7 +14,18 @@ in Planung
 ## Version 2017-03-24
 
 ```
-in Entwicklung
+in Planung
+```
+
+**Geplant**
+
+- tbd.
+
+## Version 2017-03-22 (Pre-Release)
+
+```
+K902065.TES
+R902065.TES
 ```
 
 **Geplant**
