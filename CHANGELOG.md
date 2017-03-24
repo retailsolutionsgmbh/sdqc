@@ -1,6 +1,11 @@
 # SDQC: Änderungsprotokoll
 
 ## Version 2017-04-21
+
+```
+in Planung
+```
+
 ## Version 2017-04-07 (Pre-Release)
 
 ```
@@ -10,6 +15,8 @@ in Planung
 **Geplant**
 
 - Performance & Retailsolutions-Methode IF_EX_BADI_MATERIAL_CHECK~CHECK_DATA_RETAIL [\#314](http://bitnami-redmine-58c6.cloudapp.net/issues/314)
+- Prüfung Artikeltext (MAKT-MAKTX) und Idoc-Verbuchung [\#277](http://bitnami-redmine-58c6.cloudapp.net/issues/277)
+- die Tabelle MAKT greift nicht [\#185](http://bitnami-redmine-58c6.cloudapp.net/issues/185)
 
 ## Version 2017-03-24
 
@@ -19,7 +26,7 @@ in Planung
 
 **Geplant**
 
-- tbd.
+- Auto-Korrektur prüft Regelkopf-Feld statt Ziel-Feld der Dann-Bedingung [\#333](http://bitnami-redmine-58c6.cloudapp.net/issues/333)
 
 ## Version 2017-03-22 (Pre-Release)
 
@@ -27,16 +34,16 @@ in Planung
 K902065.TES
 R902065.TES
 ```
+**Neue Features:**
 
-**Geplant**
+- Checkbox zum Ignorieren allgemeiner Vorbedingungen im Offline-Report [\#303](http://bitnami-redmine-58c6.cloudapp.net/issues/303)
+
+**Behobene Fehler**
 
 - Offline Report Scrollen verbessern [\#330](http://bitnami-redmine-58c6.cloudapp.net/issues/330)
 - Einzelwerte werden nicht exportiert (und somit auch nicht importiert) [\#322](http://bitnami-redmine-58c6.cloudapp.net/issues/322)
 - Korrekturwerte vorschlagen - es wird kein Wert vorgeschlagen [\#320](http://bitnami-redmine-58c6.cloudapp.net/issues/320)
 - Performance & Retailsolutions-Methode IF_EX_BADI_MATERIAL_CHECK~CHECK_DATA_RETAIL [\#314](http://bitnami-redmine-58c6.cloudapp.net/issues/314)
-- Checkbox zum Ignorieren allgemeiner Vorbedingungen im Offline-Report [\#303](http://bitnami-redmine-58c6.cloudapp.net/issues/303)
-- Prüfung Artikeltext (MAKT-MAKTX) und Idoc-Verbuchung [\#277](http://bitnami-redmine-58c6.cloudapp.net/issues/277)
-- die Tabelle MAKT greift nicht [\#185](http://bitnami-redmine-58c6.cloudapp.net/issues/185)
 
 ## Version 2017-02-24
 
