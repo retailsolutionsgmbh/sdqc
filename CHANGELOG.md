@@ -6,29 +6,14 @@
 in Planung
 ```
 
-## Version 2017-04-07 (Pre-Release)
-
-```
-in Planung
-```
-
 **Geplant**
 
+- Auto-Korrektur prüft Regelkopf-Feld statt Ziel-Feld der Dann-Bedingung [\#333](http://bitnami-redmine-58c6.cloudapp.net/issues/333)
 - Performance & Retailsolutions-Methode IF_EX_BADI_MATERIAL_CHECK~CHECK_DATA_RETAIL [\#314](http://bitnami-redmine-58c6.cloudapp.net/issues/314)
 - Prüfung Artikeltext (MAKT-MAKTX) und Idoc-Verbuchung [\#277](http://bitnami-redmine-58c6.cloudapp.net/issues/277)
 - die Tabelle MAKT greift nicht [\#185](http://bitnami-redmine-58c6.cloudapp.net/issues/185)
 
-## Version 2017-03-24
-
-```
-in Planung
-```
-
-**Geplant**
-
-- Auto-Korrektur prüft Regelkopf-Feld statt Ziel-Feld der Dann-Bedingung [\#333](http://bitnami-redmine-58c6.cloudapp.net/issues/333)
-
-## Version 2017-03-22 (Pre-Release)
+## Version 2017-03-22
 
 ```
 K902065.TES
