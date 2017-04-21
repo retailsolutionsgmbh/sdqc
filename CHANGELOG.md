@@ -9,17 +9,18 @@ in Planung
 **Geplant**
 
 - Feld für regulären Ausdruck bitte von 30 auf 200 Zeichen erweitern [\#335](http://bitnami-redmine-58c6.cloudapp.net/issues/335)
-- Auto-Korrektur prüft Regelkopf-Feld statt Ziel-Feld der Dann-Bedingung [\#333](http://bitnami-redmine-58c6.cloudapp.net/issues/333)
 
 ## Version 2017-04-21
 
 ```
-in Planung
+K902070.TES
+R902070.TES
 ```
 
 **Behobene Fehler**
 
 - Endlosschleife bei alten Auto-Korrektur Einträgen aus Shared Memory [\#339](http://bitnami-redmine-58c6.cloudapp.net/issues/339)
+- Auto-Korrektur prüft Regelkopf-Feld statt Ziel-Feld der Dann-Bedingung [\#333](http://bitnami-redmine-58c6.cloudapp.net/issues/333)
 - Performance & Retailsolutions-Methode IF_EX_BADI_MATERIAL_CHECK~CHECK_DATA_RETAIL [\#314](http://bitnami-redmine-58c6.cloudapp.net/issues/314)
 - Performance-Probleme und Shortdumps durch Löschung von A-Tabelleneinträge ohne Sperre [\#301](http://bitnami-redmine-58c6.cloudapp.net/issues/301)
 - die Tabelle MAKT greift nicht [\#185](http://bitnami-redmine-58c6.cloudapp.net/issues/185)
