@@ -1,14 +1,29 @@
 # SDQC: Änderungsprotokoll
 
-## Version 2017-05-xx
+## Version 2017-06-xx
 
 ```
-in Planung
+in Bearbeitung
 ```
 
 **Geplant**
 
+- Veraltete Objekte löschen [\#345](http://bitnami-redmine-58c6.cloudapp.net/issues/345)
+- Ermittlung der Dauer eines Prüflaufs im Offline-Report nicht korrekt [\#342](http://bitnami-redmine-58c6.cloudapp.net/issues/342)
+
+## Version 2017-05-19
+
+```
+K902080.TES
+R902080.TES
+```
+
+**Behobene Fehler**
+
+- Regelanlage und Regelkopf [\#343](http://bitnami-redmine-58c6.cloudapp.net/issues/343)
 - Feld für regulären Ausdruck bitte von 30 auf 200 Zeichen erweitern [\#335](http://bitnami-redmine-58c6.cloudapp.net/issues/335)
+- Einzelwerte werden nicht exportiert (und somit auch nicht importiert) [\#322](http://bitnami-redmine-58c6.cloudapp.net/issues/322)
+- Der Kommentar im Dialog "MARA-MATNR:0136" durch Button "Regel überprüfen" sollte korrigiert werden [\#251](http://bitnami-redmine-58c6.cloudapp.net/issues/251)
 
 ## Version 2017-04-21
 
