@@ -1,6 +1,12 @@
 # SDQC: Änderungsprotokoll
 
-## Version 2017-06-xx
+## Version 2017-07-14
+
+```
+in Planung
+```
+
+## Version 2017-06-20
 
 ```
 in Bearbeitung
@@ -8,8 +14,11 @@ in Bearbeitung
 
 **Geplant**
 
+- MARC nachlesen [\#349](http://bitnami-redmine-58c6.cloudapp.net/issues/349)
+- Immer gesamte Prüfläufe löschen [\#348](http://bitnami-redmine-58c6.cloudapp.net/issues/348)
 - Veraltete Objekte löschen [\#345](http://bitnami-redmine-58c6.cloudapp.net/issues/345)
 - Ermittlung der Dauer eines Prüflaufs im Offline-Report nicht korrekt [\#342](http://bitnami-redmine-58c6.cloudapp.net/issues/342)
+- Für W_SYNC erscheint kein korrekter Test bei der Fehlermeldung zu Regel 611 [\#261](http://bitnami-redmine-58c6.cloudapp.net/issues/261)
 
 ## Version 2017-05-19
 
