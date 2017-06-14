@@ -5,18 +5,19 @@
 ```
 in Planung
 ```
-
-## Version 2017-06-20
-
-```
-in Bearbeitung
-```
-
-**Geplant**
-
-- MARC nachlesen [\#349](http://bitnami-redmine-58c6.cloudapp.net/issues/349)
 - Immer gesamte Prüfläufe löschen [\#348](http://bitnami-redmine-58c6.cloudapp.net/issues/348)
 - Veraltete Objekte löschen [\#345](http://bitnami-redmine-58c6.cloudapp.net/issues/345)
+
+## Version 2017-06-14
+
+```
+K902084.TES
+R902084.TES
+```
+
+**Behobene Fehler**
+
+- MARC nachlesen [\#349](http://bitnami-redmine-58c6.cloudapp.net/issues/349)
 - Ermittlung der Dauer eines Prüflaufs im Offline-Report nicht korrekt [\#342](http://bitnami-redmine-58c6.cloudapp.net/issues/342)
 - Prüfung Artikeltext (MAKT-MAKTX) und Idoc-Verbuchung [\#277](http://bitnami-redmine-58c6.cloudapp.net/issues/277)
 - Für W_SYNC erscheint kein korrekter Test bei der Fehlermeldung zu Regel 611 [\#261](http://bitnami-redmine-58c6.cloudapp.net/issues/261)
