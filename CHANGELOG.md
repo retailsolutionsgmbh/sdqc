@@ -5,8 +5,20 @@
 ```
 in Planung
 ```
+
 - Immer gesamte Prüfläufe löschen [\#348](http://bitnami-redmine-58c6.cloudapp.net/issues/348)
 - Veraltete Objekte löschen [\#345](http://bitnami-redmine-58c6.cloudapp.net/issues/345)
+
+## Version 2017-06-26
+
+```
+K90xxxx.TES
+R90xxxx.TES
+```
+
+**Behobene Fehler**
+
+- Performance Online-Prüfung [\#360](http://bitnami-redmine-58c6.cloudapp.net/issues/360)
 
 ## Version 2017-06-14
 
