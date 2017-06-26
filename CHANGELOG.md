@@ -12,13 +12,24 @@ in Planung
 ## Version 2017-06-26
 
 ```
-K90xxxx.TES
-R90xxxx.TES
+K902088.TES
+R902088.TES
 ```
 
 **Behobene Fehler**
 
 - Performance Online-Prüfung [\#360](http://bitnami-redmine-58c6.cloudapp.net/issues/360)
+
+## Fix 2016-06-15
+
+```
+K902086.TES
+R902086.TES
+```
+
+**Behobene Fehler:**
+
+- Probleme mit kundeneingenen Feldern in Tabelle ZRSAG_SQ_ARTCH_A [\#350](http://bitnami-redmine-58c6.cloudapp.net/issues/350)
 
 ## Version 2017-06-14
 
