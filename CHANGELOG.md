@@ -9,6 +9,17 @@ in Planung
 - Immer gesamte Prüfläufe löschen [\#348](http://bitnami-redmine-58c6.cloudapp.net/issues/348)
 - Veraltete Objekte löschen [\#345](http://bitnami-redmine-58c6.cloudapp.net/issues/345)
 
+## Version 2017-06-27
+
+```
+K902090.TES
+R902090.TES
+```
+
+**Behobene Fehler**
+
+- Prüfung Artikeltext (MAKT-MAKTX) und Idoc-Verbuchung [\#277](http://bitnami-redmine-58c6.cloudapp.net/issues/277)
+
 ## Version 2017-06-26
 
 ```
