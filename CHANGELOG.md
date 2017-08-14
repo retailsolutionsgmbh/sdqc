@@ -6,7 +6,8 @@
 in Planung
 ```
 
-- ...
+- Regressionstest DD0/300 [\#374](http://bitnami-redmine-58c6.cloudapp.net/issues/374)
+- Tabelle ZRSAG_SQ_ARTCH_A und Tabelle ZRSAG_SDQC_STAT [\#371](http://bitnami-redmine-58c6.cloudapp.net/issues/371)
 
 ## Version 2017-07-17
 
