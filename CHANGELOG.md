@@ -1,6 +1,14 @@
 # SDQC: Änderungsprotokoll
 
-## Version 2017-07-14
+## Version 2017-08-14
+
+```
+in Planung
+```
+
+- ...
+
+## Version 2017-07-17
 
 ```
 in Planung
