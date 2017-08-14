@@ -3,7 +3,8 @@
 ## Version 2017-08-14
 
 ```
-in Planung
+K902113.TES
+R902113.TES
 ```
 
 - Regressionstest DD0/300 [\#374](http://bitnami-redmine-58c6.cloudapp.net/issues/374)
