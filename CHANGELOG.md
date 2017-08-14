@@ -12,7 +12,8 @@ in Planung
 ## Version 2017-07-17
 
 ```
-in Planung
+K902094.TES
+R902094.TES
 ```
 
 - Immer gesamte Prüfläufe löschen [\#348](http://bitnami-redmine-58c6.cloudapp.net/issues/348)
