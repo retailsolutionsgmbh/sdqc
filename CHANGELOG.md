@@ -1,5 +1,18 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2017-09-08
+
+```
+K90xxxx.TES
+R90xxxx.TES
+```
+
+- Offline-Report gibt bei erstmaligem Lauf nach Einspielen des neuen Release nicht immer das vollständige Ergbnis aus. [\#378](http://bitnami-redmine-58c6.cloudapp.net/issues/378)
+- Regressiontest nicht erfolgreich [\#377](http://bitnami-redmine-58c6.cloudapp.net/issues/377)
+- Wenn-Dann-Regel zur Prüfung eines Einkaufsinfosatzes IV (EINA -> EINE) [\#352](http://bitnami-redmine-58c6.cloudapp.net/issues/352)
+- Wenn-Dann-Regel zur Prüfung eines Einkaufsinfosatzes III (EINA -> EINA) [\#351](http://bitnami-redmine-58c6.cloudapp.net/issues/351)
+- RS Regel 30 Graphische Übersicht nicht angepasst in Marke, statt H muss hier EH stehen [\#331](http://bitnami-redmine-58c6.cloudapp.net/issues/331)
+
 ## Version 2017-08-14
 
 ```
