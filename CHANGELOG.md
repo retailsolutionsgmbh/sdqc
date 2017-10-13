@@ -1,10 +1,23 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2017-10-06
+
+```
+K902139.TES
+R902139.TES
+```
+
+- Offline Report Fehlermeldung sichern defaultmäßig setzen + [\#384](http://bitnami-redmine-58c6.cloudapp.net/issues/384)
+- Regel nur für jeweiliges Objekt anzeigen [\#382](http://bitnami-redmine-58c6.cloudapp.net/issues/382)
+- Kleiner Bug beim Verlassen der Transaktion ZRSAG_SDQC [\#359](http://bitnami-redmine-58c6.cloudapp.net/issues/359)
+- RS Regel 30 Graphische Übersicht nicht angepasst in Marke, statt H muss hier EH stehe [\#331](http://bitnami-redmine-58c6.cloudapp.net/issues/331)
+- Offline Report bestimmte Regel auswählen über F4 Hilfe [\#252](http://bitnami-redmine-58c6.cloudapp.net/issues/252)
+
 ## Version 2017-09-08
 
 ```
-K90xxxx.TES
-R90xxxx.TES
+K902123.TES
+R902123.TES
 ```
 
 - Offline-Report gibt bei erstmaligem Lauf nach Einspielen des neuen Release nicht immer das vollständige Ergbnis aus. [\#378](http://bitnami-redmine-58c6.cloudapp.net/issues/378)
