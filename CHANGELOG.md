@@ -1,5 +1,16 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2017-10-20
+
+```
+K9021xx.TES
+R9021xx.TES
+```
+
+- Excel-Export [\#395](http://bitnami-redmine-58c6.cloudapp.net/issues/395)
+- Wenn WLk2-KWDHT gefüllt dann MVKE-RDPRF auch gefüllt [\#394](http://bitnami-redmine-58c6.cloudapp.net/issues/394)
+- Kopierfehler bei Wenn-Dann-Regel: Bei Wenn-Bedingung werden das Häkchen "dynamisch" und die zugehörigen Felder nicht kopiert [\#369](http://bitnami-redmine-58c6.cloudapp.net/issues/369)
+
 ## Version 2017-10-06
 
 ```
