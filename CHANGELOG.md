@@ -7,7 +7,12 @@ K90xxxx.TES
 R90xxxx.TES
 ```
 
-- 
+- Regel 80 Rea für MTL / graphische dartstellung enthällt zu viele 9 [\#404](http://bitnami-redmine-58c6.cloudapp.net/issues/404)
+- Regel greift nicht im Offlinereport [\#403](http://bitnami-redmine-58c6.cloudapp.net/issues/403)
+- Regel 825.000.007 Orderbuchpflicht [\#402](http://bitnami-redmine-58c6.cloudapp.net/issues/402)
+- Performanceverbesserungen an CL_ABAP_TYPEDESCR und GT_ARTCH_J (Teil 2) [\#400](http://bitnami-redmine-58c6.cloudapp.net/issues/400)
+- Pufferung der Tabelle ZRSAG_SQ_ARTCH_W [\#399](http://bitnami-redmine-58c6.cloudapp.net/issues/399)
+- Bereinigung ZRSAG_SDQC_STAT (Ticket 371) [\#393](http://bitnami-redmine-58c6.cloudapp.net/issues/393)
 
 ## Version 2017-10-20
 
