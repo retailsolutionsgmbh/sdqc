@@ -1,5 +1,14 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2017-12-15
+
+```
+K90xxxx.TES
+R90xxxx.TES
+```
+
+- 
+
 ## Version 2017-10-20
 
 ```
