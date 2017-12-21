@@ -68,6 +68,7 @@ K902094.TES
 R902094.TES
 ```
 
+- Reiter Vorbedingungen: Allgemeine Prüfungsausschlüsse sollte Allgemeine Vorbedingungen heißen [\#368](http://bitnami-redmine-58c6.cloudapp.net/issues/368)
 - Immer gesamte Prüfläufe löschen [\#348](http://bitnami-redmine-58c6.cloudapp.net/issues/348)
 - Veraltete Objekte löschen [\#345](http://bitnami-redmine-58c6.cloudapp.net/issues/345)
 
