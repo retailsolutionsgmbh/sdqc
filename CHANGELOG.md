@@ -1,10 +1,19 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2018-01-03
+
+```
+K902171.TES
+R902171.TES
+```
+
+- Abwärtskompatibilität zu ABAP 7.40 SP08
+
 ## Version 2017-12-15
 
 ```
-K90xxxx.TES
-R90xxxx.TES
+K902169.TES
+R902169.TES
 ```
 
 - Regel 80 Rea für MTL / graphische dartstellung enthällt zu viele 9 [\#404](http://bitnami-redmine-58c6.cloudapp.net/issues/404)
