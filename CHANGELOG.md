@@ -1,5 +1,14 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2018-01-12
+
+```
+K902xxx.TES
+R902xxx.TES
+```
+
+- 2 von 3 'Button' 'Regel sichern' funktionieren nicht. [\#413](http://bitnami-redmine-58c6.cloudapp.net/issues/413)
+
 ## Version 2018-01-03
 
 ```
