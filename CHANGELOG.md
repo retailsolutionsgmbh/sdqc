@@ -1,6 +1,6 @@
 # SDQC: Änderungsprotokoll
 
-## Version 2018-01-12 (Release)
+## Version 2018-01-12 (kompl. Release)
 
 ```
 K902175.TES
