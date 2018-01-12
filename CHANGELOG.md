@@ -1,12 +1,20 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2018-01-12 (Release)
+
+```
+K902175.TES
+R902175.TES
+```
+
 ## Version 2018-01-12
 
 ```
-K902xxx.TES
-R902xxx.TES
+K902173.TES
+R902173.TES
 ```
 
+- Fehler in Dubletten-Prüfung
 - 2 von 3 'Button' 'Regel sichern' funktionieren nicht. [\#413](http://bitnami-redmine-58c6.cloudapp.net/issues/413)
 
 ## Version 2018-01-03
