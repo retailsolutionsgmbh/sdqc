@@ -3,9 +3,10 @@
 ## Version 2018-02-16
 
 ```
-K902xxx.TES
-R902xxx.TES
+K902185.TES
+R902185.TES
 ```
+
 - Dubletten-Prüfung [\#427](http://bitnami-redmine-58c6.cloudapp.net/issues/427)
 - Bei kopieren einer Regel Dublette erkannt [\#426](http://bitnami-redmine-58c6.cloudapp.net/issues/426)
 - Feldwert des Feldes Klassenart der H-Tabelle wurde mit dem letzten (?) TP zum Teil geleert [\#421](http://bitnami-redmine-58c6.cloudapp.net/issues/421)
