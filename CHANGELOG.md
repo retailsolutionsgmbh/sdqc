@@ -9,6 +9,7 @@ R902xxx.TES
 - Dubletten-Prüfung [\#427](http://bitnami-redmine-58c6.cloudapp.net/issues/427)
 - Bei kopieren einer Regel Dublette erkannt [\#426](http://bitnami-redmine-58c6.cloudapp.net/issues/426)
 - Feldwert des Feldes Klassenart der H-Tabelle wurde mit dem letzten (?) TP zum Teil geleert [\#421](http://bitnami-redmine-58c6.cloudapp.net/issues/421)
+- Übersetzung Englisch Felder im Offline Report [\#414](http://bitnami-redmine-58c6.cloudapp.net/issues/414)
 
 ## Version 2018-01-12 (kompl. Release)
 
