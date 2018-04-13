@@ -1,5 +1,15 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2018-04-13
+
+```
+K902195.TES
+R902195.TES
+```
+
+- Langtextprüfung Artikelkurztext funktioniert nicht richtig [\#434](http://bitnami-redmine-58c6.cloudapp.net/issues/434)
+- Editieren einer Regel mit Regulärem Ausdruck [\#283](http://bitnami-redmine-58c6.cloudapp.net/issues/283)
+
 ## Version 2018-02-16
 
 ```
