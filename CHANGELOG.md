@@ -1,5 +1,18 @@
 # SDQC: Änderungsprotokoll
 
+
+## Version 2018-05-07
+
+```
+K902199.TES
+R902199.TES
+```
+
+- Bezeichnung für Flag Kreditor und Debitor ändern [\#440](http://bitnami-redmine-58c6.cloudapp.net/issues/440)
+- DUMP bei Massenhafter setzung von Status [\#436](http://bitnami-redmine-58c6.cloudapp.net/issues/436)
+- Validierungen bei Regelpflege [\#430](http://bitnami-redmine-58c6.cloudapp.net/issues/430)
+- Prüfung MARC-WERKS -> MARA ZZPFLKS funktioniert nicht. [\#410](http://bitnami-redmine-58c6.cloudapp.net/issues/410)
+
 ## Version 2018-04-13
 
 ```
