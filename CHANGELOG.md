@@ -4,8 +4,8 @@
 ## Version 2018-06-10
 
 ```
-K90xxxx.TES
-R90xxxx.TES
+K902209.TES
+R902209.TES
 ```
 
 - Anpassung Button im Verbuchungs-Pop-Up [\#455](http://bitnami-redmine-58c6.cloudapp.net/issues/455)
