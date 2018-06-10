@@ -1,6 +1,19 @@
 # SDQC: Änderungsprotokoll
 
 
+## Version 2018-06-10
+
+```
+K90xxxx.TES
+R90xxxx.TES
+```
+
+- Anpassung Button im Verbuchungs-Pop-Up [\#455](http://bitnami-redmine-58c6.cloudapp.net/issues/455)
+- Bug in Userverwaltung [\#451](http://bitnami-redmine-58c6.cloudapp.net/issues/451)
+- Bug in Userverwaltung: Exclude greift nicht [\#450](http://bitnami-redmine-58c6.cloudapp.net/issues/450)
+- Performanceverbesserungen an CL_ABAP_TYPEDESCR und GT_ARTCH_J [\#400](http://bitnami-redmine-58c6.cloudapp.net/issues/400)
+- Regelanlage und Regelkopf [\#343](http://bitnami-redmine-58c6.cloudapp.net/issues/343)
+
 ## Version 2018-05-07
 
 ```
