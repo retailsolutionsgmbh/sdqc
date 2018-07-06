@@ -1,5 +1,12 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2018-07-06 (kompl. Release)
+
+```
+K902217.TES
+R902217.TES
+```
+
 ## Version 2018-07-06
 
 ```
