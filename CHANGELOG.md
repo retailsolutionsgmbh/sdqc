@@ -1,5 +1,15 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2018-07-06
+
+```
+K902215.TES
+R902215.TES
+```
+
+- RC8 bei Transport 2018-06-10 [\#463](http://bitnami-redmine-58c6.cloudapp.net/issues/463)
+- MARC wird nicht unterstützt [\#452](http://bitnami-redmine-58c6.cloudapp.net/issues/452)
+- Performance bei Intervallen von Vorbedingungen [\#431](http://bitnami-redmine-58c6.cloudapp.net/issues/431)
 
 ## Version 2018-06-10
 
