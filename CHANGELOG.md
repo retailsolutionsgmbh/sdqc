@@ -1,5 +1,14 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2018-07-17 (Modifikation)
+
+```
+K902219.TES
+R902219.TES
+```
+
+beinhaltet Include `LZRSAG_SDQC_ERRLISTO01` und Dynpro `9614`
+
 ## Version 2018-07-06 (kompl. Release)
 
 ```
