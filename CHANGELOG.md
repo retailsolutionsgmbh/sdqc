@@ -3,8 +3,8 @@
 ## Version 2018-09-14
 
 ```
-K90xxxx.TES
-R90xxxx.TES
+K902240.TES
+R902240.TES
 ```
 
 - neues Fehlerprotokoll - fehlende wichtige Angaben [\#475](http://bitnami-redmine-58c6.cloudapp.net/issues/475)
