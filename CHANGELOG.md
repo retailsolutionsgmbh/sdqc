@@ -1,5 +1,41 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2018-09-14
+
+```
+K90xxxx.TES
+R90xxxx.TES
+```
+
+- neues Fehlerprotokoll - fehlende wichtige Angaben [\#475](http://bitnami-redmine-58c6.cloudapp.net/issues/475)
+- Warnungen im PRICAT - invalide Verbuchung [\#469](http://bitnami-redmine-58c6.cloudapp.net/issues/469)
+- Einzelwerte Vorbedingung [\#467](http://bitnami-redmine-58c6.cloudapp.net/issues/467)
+- RS Regel 15 für NFCM / Anzeige EKORG 6300 evtl. zu viele [\#448](http://bitnami-redmine-58c6.cloudapp.net/issues/448)
+- Performance beim Speichern in MM42 (Teil 1-2) [\#433](http://bitnami-redmine-58c6.cloudapp.net/issues/433)
+
+## Version 2018-08-27
+
+```
+K902236.TES
+R902236.TES
+```
+
+- Regel 42 [\#477](http://bitnami-redmine-58c6.cloudapp.net/issues/477)
+- Anpassungen PRICAT
+
+## Version 2018-08-14
+
+```
+K902228.TES
+R902228.TES
+```
+
+- Dumps aufgrund regulären Ausdruck in Vorbedingungen [\#468](http://bitnami-redmine-58c6.cloudapp.net/issues/468)
+- Einzelwerte Vorbedingung [\#467](http://bitnami-redmine-58c6.cloudapp.net/issues/467)
+- RS Regel 7 Orderbuchpflicht / Massenänderung nicht über alle Betriebe [\#443](http://bitnami-redmine-58c6.cloudapp.net/issues/443)
+- Performance beim Speichern in MM42 (Teil 3) [\#433](http://bitnami-redmine-58c6.cloudapp.net/issues/433)
+- Anpassungen PRICAT
+
 ## Version 2018-07-17 (Modifikation)
 
 ```
