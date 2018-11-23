@@ -3,8 +3,8 @@
 ## Version 2018-11-23
 
 ```
-K90xxxx.TES
-R90xxxx.TES
+K902244.TES
+R902244.TES
 ```
 
 - Regel 20 Artikelgruppe nicht ZT [\#478](http://bitnami-redmine-58c6.cloudapp.net/issues/478)
