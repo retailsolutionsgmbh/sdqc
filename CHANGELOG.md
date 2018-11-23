@@ -1,5 +1,17 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2018-11-23
+
+```
+K90xxxx.TES
+R90xxxx.TES
+```
+
+- Regel 20 Artikelgruppe nicht ZT [\#478](http://bitnami-redmine-58c6.cloudapp.net/issues/478)
+- Vorbedingungen überschrieben, da falsche lfd.Nummer [\#474](http://bitnami-redmine-58c6.cloudapp.net/issues/474)
+- Einzelwerte Vorbedingung [\#467](http://bitnami-redmine-58c6.cloudapp.net/issues/467)
+- RS Regel 7 Orderbuchpflicht / Massenänderung nicht über alle Betriebe [\#443](http://bitnami-redmine-58c6.cloudapp.net/issues/443)
+
 ## Version 2018-09-14
 
 ```
