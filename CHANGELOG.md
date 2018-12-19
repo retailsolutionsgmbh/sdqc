@@ -1,5 +1,16 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2018-12-19
+
+```
+K902246.TES
+R902246.TES
+```
+
+- Inefficient reads on DDNTT [\#496](http://bitnami-redmine-58c6.cloudapp.net/issues/496)
+- Sonderzeichen & im dynamischen Fehlertext [\#486](http://bitnami-redmine-58c6.cloudapp.net/issues/486)
+- Einzelwerte Vorbedingung [\#467](http://bitnami-redmine-58c6.cloudapp.net/issues/467)
+
 ## Version 2018-11-23
 
 ```
