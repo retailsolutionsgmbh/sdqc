@@ -1,5 +1,14 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2019-01-28
+
+```
+K902252.TES
+R902252.TES
+```
+
+- Performance issues in Offline report with MAW1 and EINA [\#495](http://bitnami-redmine-58c6.cloudapp.net/issues/495)
+
 ## Version 2018-12-19
 
 ```
