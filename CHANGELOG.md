@@ -3,8 +3,8 @@
 ## Version 2019-02-15
 
 ```
-K90xxxx.TES
-R90xxxx.TES
+K902256.TES
+R902256.TES
 ```
 
 - Stücklisten
