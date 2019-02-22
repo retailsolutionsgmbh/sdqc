@@ -9,9 +9,11 @@ R902256.TES
 
 - Stücklisten
 - Layout speichern in der Regelübersicht [\#506](http://bitnami-redmine-58c6.cloudapp.net/issues/506)
+- Customizing Regel Aktivierung Refresh bei ENTER [\#505](http://bitnami-redmine-58c6.cloudapp.net/issues/505)
 - fehlende Transaktionen [\#501](http://bitnami-redmine-58c6.cloudapp.net/issues/501)
 - ABAP Regel Lieferantennummer in der Fehlerprotokoll ausgeben [\#497](http://bitnami-redmine-58c6.cloudapp.net/issues/497)
 - Meldung für MARA-ZZVERKEHRSBEZ, obwohl Feld leer [\#487](http://bitnami-redmine-58c6.cloudapp.net/issues/487)
+- Einzelwerte Vorbedingung [\#467](http://bitnami-redmine-58c6.cloudapp.net/issues/467)
 
 ## Version 2019-01-28
 
