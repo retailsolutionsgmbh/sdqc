@@ -1,5 +1,17 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2019-03-14
+
+```
+K902xxx.TES
+R902xxx.TES
+```
+
+- Bad Offline Report performance [\#514](http://bitnami-redmine-58c6.cloudapp.net/issues/514)
+-	Missing translations for NO logon language [\#512](http://bitnami-redmine-58c6.cloudapp.net/issues/512)
+-	Editability of rule_id field in Offline Report [\#510](http://bitnami-redmine-58c6.cloudapp.net/issues/510)
+- Open rule tab when creating new rules [\#509](http://bitnami-redmine-58c6.cloudapp.net/issues/509)
+
 ## Version 2019-02-15
 
 ```
