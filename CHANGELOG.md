@@ -1,5 +1,16 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2019-03-22
+
+```
+K902275.TES
+R902275.TES
+```
+
+- Bei der Massenpflege werden auch die fehlerfreien Einträge zur Pflege angeboten [\#516](http://bitnami-redmine-58c6.cloudapp.net/issues/516)
+- Regel 825.000.046, Regel aktiv setzen für MM42 [\#515](http://bitnami-redmine-58c6.cloudapp.net/issues/515)
+- fehlende Transaktionen [\#501](http://bitnami-redmine-58c6.cloudapp.net/issues/501)
+
 ## Version 2019-03-14
 
 ```
