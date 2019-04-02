@@ -1,5 +1,14 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2019-03-28
+
+```
+K902277.TES
+R902277.TES
+```
+
+- Dump Offline Report [\#519](http://bitnami-redmine-58c6.cloudapp.net/issues/519)
+
 ## Version 2019-03-22
 
 ```
