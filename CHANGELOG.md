@@ -1,5 +1,15 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2019-04-26
+
+```
+K90xxxx.TES
+R90xxxx.TES
+```
+
+- DELETE auf ZRSAG_SQ_ARTCH_A -> Performance [\#493](http://bitnami-redmine-58c6.cloudapp.net/issues/493)
+- Stücklistenprüfungen als Wenn- oder Dann-Bedingung
+
 ## Version 2019-04-03
 
 ```
