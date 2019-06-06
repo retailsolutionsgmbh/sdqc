@@ -1,5 +1,14 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2019-06-06
+
+```
+K902286.TES
+R902286.TES
+```
+
+- Rückbau Ticket 495 [\#495](http://bitnami-redmine-58c6.cloudapp.net/issues/495)
+
 ## Version 2019-04-30
 
 ```
