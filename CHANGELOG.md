@@ -1,5 +1,20 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2019-07-05
+
+```
+K902291.TES
+R902291.TES
+```
+
+- fehlende Fehlerart in der graphischen Darstellung [\#533](http://bitnami-redmine-58c6.cloudapp.net/issues/533)
+- Fehlende Befüllung von Feldern im Offlinereport [\#530](http://bitnami-redmine-58c6.cloudapp.net/issues/530)
+- Neuanforderung: ABAP Regel Exportparameter: Fehlerart [\#525](http://bitnami-redmine-58c6.cloudapp.net/issues/525)
+- PRICAT/ IDOC Langtextprüfung <=30 Zeichen [\#524](http://bitnami-redmine-58c6.cloudapp.net/issues/524)
+- Massenpflege und PopUp Mehrfachpflege für Artikel [\#521](http://bitnami-redmine-58c6.cloudapp.net/issues/521)
+- Bei der Massenpflege werden auch die fehlerfreien Einträge zur Pflege angeboten [\#516](http://bitnami-redmine-58c6.cloudapp.net/issues/516)
+- Pflegeview für ObjTyp-Tabelle [\#457](http://bitnami-redmine-58c6.cloudapp.net/issues/457)
+
 ## Version 2019-06-06
 
 ```
