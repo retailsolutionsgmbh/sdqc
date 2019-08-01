@@ -1,5 +1,17 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2019-07-29
+
+```
+K902295.TES
+R902295.TES
+```
+
+- SDQC Fehlverhalten nach Behebung von Ticket #535
+ [\#547](http://bitnami-redmine-58c6.cloudapp.net/issues/547)
+- Langtextprüfung in MM41 in Artikelkurztext (nicht Hauptsprache) funktioniert nicht
+ [\#535](http://bitnami-redmine-58c6.cloudapp.net/issues/535)
+
 ## Version 2019-07-05
 
 ```
