@@ -1,5 +1,23 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2019-09-13
+
+```
+K90xxxx.TES
+R90xxxx.TES
+```
+
+- Regel 73, graphische Darstellung nicht ok [\#566](http://bitnami-redmine-58c6.cloudapp.net/issues/566)
+- Regel 70, graphische Darstellung nicht ok [\#565](http://bitnami-redmine-58c6.cloudapp.net/issues/565)
+- Regel 75 REA pflegen, da Ware verpackt und nicht aus DE, offline zieht nicht [\#562](http://bitnami-redmine-58c6.cloudapp.net/issues/562)
+- Regel 75 REA nicht für DE [\#559](http://bitnami-redmine-58c6.cloudapp.net/issues/559)
+- RS Customizing - User Angabe möglich obwohl nicht vorhanden [\#555](http://bitnami-redmine-58c6.cloudapp.net/issues/555)
+- Langtextprüfung in MM41/MM42 in BON-Text prüft nur Sprache IT [\#554](http://bitnami-redmine-58c6.cloudapp.net/issues/554)
+- Stücklistenprüfung: MAST Stückliste vorhanden [\#550](http://bitnami-redmine-58c6.cloudapp.net/issues/550)
+- Regeln aktivieren/deaktivieren ohne Angabe von Regelnummern [\#545](http://bitnami-redmine-58c6.cloudapp.net/issues/545)
+- Massenpflege und PopUp Mehrfachpflege für Artikel [\#521](http://bitnami-redmine-58c6.cloudapp.net/issues/521)
+- Bei der Massenpflege werden auch die fehlerfreien Einträge zur Pflege angeboten [\#516](http://bitnami-redmine-58c6.cloudapp.net/issues/516)
+
 ## Version 2019-07-29
 
 ```
