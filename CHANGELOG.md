@@ -3,8 +3,8 @@
 ## Version 2019-09-13
 
 ```
-K90xxxx.TES
-R90xxxx.TES
+K902297.TES
+R902297.TES
 ```
 
 - Regel 73, graphische Darstellung nicht ok [\#566](http://bitnami-redmine-58c6.cloudapp.net/issues/566)
