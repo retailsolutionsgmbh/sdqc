@@ -1,5 +1,18 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2019-11-22
+
+```
+K90xxxx.TES
+R90xxxx.TES
+```
+
+- MAMT fehlt in der Schnittstelle für ABAP Regeln [\#579](http://bitnami-redmine-58c6.cloudapp.net/issues/579)
+- Stücklistenprüfung benötigt Tabelle T415B [\#578](http://bitnami-redmine-58c6.cloudapp.net/issues/578)
+- Regelbezeichnung im Offlinereport-Ergebnis [\#571](http://bitnami-redmine-58c6.cloudapp.net/issues/571)
+- RS neue Regel 106 graphische Darstellung falsch für regelspez. Vorbedingung ( kopiert aus 105) [\#570](http://bitnami-redmine-58c6.cloudapp.net/issues/570)
+- RS 94 beim Kopieren einer Regel werden nicht alle Felder mit kopiert [\#567](http://bitnami-redmine-58c6.cloudapp.net/issues/567)
+
 ## Version 2019-09-13
 
 ```
