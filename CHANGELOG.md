@@ -12,6 +12,7 @@ R90xxxx.TES
 - Regelbezeichnung im Offlinereport-Ergebnis [\#571](http://bitnami-redmine-58c6.cloudapp.net/issues/571)
 - RS neue Regel 106 graphische Darstellung falsch für regelspez. Vorbedingung ( kopiert aus 105) [\#570](http://bitnami-redmine-58c6.cloudapp.net/issues/570)
 - RS 94 beim Kopieren einer Regel werden nicht alle Felder mit kopiert [\#567](http://bitnami-redmine-58c6.cloudapp.net/issues/567)
+- Unterscheidung PRICAT nach Neuanlage und Update [\#465](http://bitnami-redmine-58c6.cloudapp.net/issues/465)
 
 ## Version 2019-09-13
 
