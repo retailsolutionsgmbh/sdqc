@@ -7,6 +7,7 @@ K90xxxx.TES
 R90xxxx.TES
 ```
 
+- Kreditoren-/Debitorenprüfung nur wenn aktiv [\#581](http://bitnami-redmine-58c6.cloudapp.net/issues/581)
 - MAMT fehlt in der Schnittstelle für ABAP Regeln [\#579](http://bitnami-redmine-58c6.cloudapp.net/issues/579)
 - Stücklistenprüfung benötigt Tabelle T415B [\#578](http://bitnami-redmine-58c6.cloudapp.net/issues/578)
 - Regelbezeichnung im Offlinereport-Ergebnis [\#571](http://bitnami-redmine-58c6.cloudapp.net/issues/571)
