@@ -1,10 +1,24 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2020-01-10
+
+```
+K902350.TES
+R902350.TES
+```
+
+- Dump im DRD nach Einspielen TP vom 22.11. [\#587](http://bitnami-redmine-58c6.cloudapp.net/issues/587)
+- RS 52 Orderbuchpflicht, in der regelsp. Vorbedingung Marke HF gelöschtm Fehler kommt aber noch hoch [\#582](http://bitnami-redmine-58c6.cloudapp.net/issues/582)
+- RS 7 Dynamische Fehlermeldung, Betrieb wird nicht entschlüsselt [\#580](http://bitnami-redmine-58c6.cloudapp.net/issues/580)
+- Abbruch bei Anzeige graphische Darstellung [\#573](http://bitnami-redmine-58c6.cloudapp.net/issues/573)
+- Regelbezeichnung im Offlinereport-Ergebnis [\#571](http://bitnami-redmine-58c6.cloudapp.net/issues/571)
+- Unterscheidung PRICAT nach Neuanlage und Update [\#465](http://bitnami-redmine-58c6.cloudapp.net/issues/465)
+
 ## Version 2019-11-22
 
 ```
-K90xxxx.TES
-R90xxxx.TES
+K902310.TES
+R902310.TES
 ```
 
 - Kreditoren-/Debitorenprüfung nur wenn aktiv [\#581](http://bitnami-redmine-58c6.cloudapp.net/issues/581)
