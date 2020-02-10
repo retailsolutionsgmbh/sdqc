@@ -1,5 +1,17 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2020-02-10
+
+```
+K902353.TES
+R902353.TES
+```
+
+- Dump im DRD nach Einspielen TP vom 22.11. [\#587](http://bitnami-redmine-58c6.cloudapp.net/issues/587)
+- neue allgemein Vorbedingung führt zu Dump [\#584](http://bitnami-redmine-58c6.cloudapp.net/issues/584)
+- RS 7 Dynamische Fehlermeldung, Betrieb wird nicht entschlüsselt [\#580](http://bitnami-redmine-58c6.cloudapp.net/issues/580)
+- Unterscheidung PRICAT nach Neuanlage und Update [\#465](http://bitnami-redmine-58c6.cloudapp.net/issues/465)
+
 ## Version 2020-01-10
 
 ```
