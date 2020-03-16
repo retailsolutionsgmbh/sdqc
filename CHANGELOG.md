@@ -1,5 +1,17 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2020-03-13
+
+```
+K902367.TES
+R902367.TES
+```
+
+- Auswahl in der 'Aktivierung' in den zentralen Einstellungen stimmt nicht mehr überein mit den Transaktionen im Cockpit [\#596](http://bitnami-redmine-58c6.cloudapp.net/issues/596)
+- Regel 130 Bestätigungspfli. darf für BM nicht gesetzt sein [\#594](http://bitnami-redmine-58c6.cloudapp.net/issues/594)
+- Performance zrsag_sq_tmpexcl [\#575](http://bitnami-redmine-58c6.cloudapp.net/issues/575)
+- Unterscheidung PRICAT nach Neuanlage und Update [\#465](http://bitnami-redmine-58c6.cloudapp.net/issues/465)
+
 ## Version 2020-02-07
 
 ```
