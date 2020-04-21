@@ -1,5 +1,15 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2020-04-17
+
+```
+K902367.TES
+R902367.TES
+```
+
+- PRICAT Warnungspopup falsche Meldungstexte im PRICAT [\#598](http://bitnami-redmine-58c6.cloudapp.net/issues/598)
+- Performance zrsag_sq_tmpexcl [\#575](http://bitnami-redmine-58c6.cloudapp.net/issues/575)
+
 ## Version 2020-03-13
 
 ```
