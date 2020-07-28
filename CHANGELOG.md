@@ -1,6 +1,6 @@
 # SDQC: Änderungsprotokoll
 
-## Version 2020-05-29
+## Version 2020-07-23
 
 ```
 K902403.TES
