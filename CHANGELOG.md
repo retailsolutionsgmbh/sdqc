@@ -3,6 +3,15 @@
 ## Version 2020-05-29
 
 ```
+K902403.TES
+R902403.TES
+```
+
+- Meldungstextlänge im SDQC PRICAT Pop Up für Warnungen [\#599](http://bitnami-redmine-58c6.cloudapp.net/issues/599)
+
+## Version 2020-05-29
+
+```
 K902391.TES
 R902391.TES
 ```
