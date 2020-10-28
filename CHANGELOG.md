@@ -1,5 +1,15 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2020-10-23
+
+```
+K902418.TES
+R902418.TES
+```
+
+- Graphische Darstellung bei regelspezifischen Vorbedingung [\#602](http://bitnami-redmine-58c6.cloudapp.net/issues/602)
+- Regel kopieren -> Regel kopiert nicht die Einzelwerte in den Vorbedingungen mit [\#601](http://bitnami-redmine-58c6.cloudapp.net/issues/601)
+
 ## Version 2020-07-23
 
 ```
