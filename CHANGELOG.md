@@ -1,5 +1,14 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2020-11-19
+
+```
+K902423.TES
+R902423.TES
+```
+
+- Parameter pe_vor_ok in Funktonsbaustein 'ZRSAG_SDQC_CALL_EXTERN falsche gesetzt [\#609](http://bitnami-redmine-58c6.cloudapp.net/issues/609)
+
 ## Version 2020-10-23
 
 ```
