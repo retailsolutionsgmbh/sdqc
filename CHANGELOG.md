@@ -1,5 +1,14 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2021-01-10
+
+```
+K902425.TES
+R902425.TES
+```
+
+- Vorbedingungen werden nicht angezeigt - Prio 2 [\#608](http://bitnami-redmine-58c6.cloudapp.net/issues/608)
+
 ## Version 2020-11-19
 
 ```
