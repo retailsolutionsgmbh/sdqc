@@ -1,5 +1,14 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2021-01-28
+
+```
+K902427.TES
+R902427.TES
+```
+
+- Einzelwerte werden nicht mehr transportiert [\#610](http://bitnami-redmine-58c6.cloudapp.net/issues/610)
+
 ## Version 2021-01-10
 
 ```
