@@ -1,5 +1,16 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2021-04-09
+
+```
+K902453.TES
+R902453.TES
+```
+
+- KRE/DEB - Prüfung auf LFM2 bringt Shortdump [\#622](http://bitnami-redmine-58c6.cloudapp.net/issues/622)
+- Fehler werden nicht im Offline Report angezeigt [\#621](http://bitnami-redmine-58c6.cloudapp.net/issues/621)
+- Objekttyp Artikel [\#617](http://bitnami-redmine-58c6.cloudapp.net/issues/617)
+
 ## Version 2021-01-28
 
 ```
