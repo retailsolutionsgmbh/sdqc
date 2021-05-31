@@ -1,5 +1,18 @@
 # SDQC: Änderungsprotokoll
 
+## Version 2021-05-21
+
+```
+K902467.TES
+R902467.TES
+```
+
+- Fehler bei Anlage einer dynamische Fehlermeldung [\#626](http://bitnami-redmine-58c6.cloudapp.net/issues/626)
+- KRED/DEB: Offline Report - Laufzeit [\#625](http://bitnami-redmine-58c6.cloudapp.net/issues/625)
+- KRED/DEB: Fehlerdatenbank Filter nach Objekttyp greift nicht [\#624](http://bitnami-redmine-58c6.cloudapp.net/issues/624)
+- Fehlermeldung nach Änderung einer kopierten Regel [\#623](http://bitnami-redmine-58c6.cloudapp.net/issues/623)
+- Fehler beim Kopieren von Vergleichsprüfungen mit Einzelwerten [\#619](http://bitnami-redmine-58c6.cloudapp.net/issues/619)
+
 ## Version 2021-04-09
 
 ```
