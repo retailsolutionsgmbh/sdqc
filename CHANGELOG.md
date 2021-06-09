@@ -3,11 +3,20 @@
 ## Version 2021-06-02
 
 ```
+K902473.TES
+R902473.TES
+```
+
+- Neues Release - fehlendes DDIC Objekt [\SDQC3EXT-9](https://retailsolutions.atlassian.net/servicedesk/customer/portal/19/SDQC3EXT-9)
+
+## Version 2021-05-28
+
+```
 K90xxxx.TES
 R90xxxx.TES
 ```
 
-- Neues Release - fehlendes DDIC Objekt [\#SDQC3EXT-9](https://retailsolutions.atlassian.net/servicedesk/customer/portal/19/SDQC3EXT-9)
+- Neues Release - fehlendes DDIC Objekt [\SDQC3EXT-9](https://retailsolutions.atlassian.net/servicedesk/customer/portal/19/SDQC3EXT-9)
 
 ## Version 2021-05-21
 
